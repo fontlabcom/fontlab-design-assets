@@ -205,3 +205,58 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ---------------------------------------------------------------------------
+# macOS
+# ---------------------------------------------------------------------------
+# Finder / Spotlight / Trash / metadata
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.apdisk
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.DocumentRevisions-V100
+.PKInstallSandboxManager
+.PKInstallSandboxManager-SystemSoftware
+
+# Icon must end with two \r (shows as "Icon?" in listings)
+Icon
+
+# Files that might appear in the root of a volume
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+
+# iCloud generated files
+*.icloud
+
+# ---------------------------------------------------------------------------
+# Editors / IDEs (often present on macOS dev machines)
+# ---------------------------------------------------------------------------
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ---------------------------------------------------------------------------
+# Project-local
+# ---------------------------------------------------------------------------
+.omc/
+.claude/
+
