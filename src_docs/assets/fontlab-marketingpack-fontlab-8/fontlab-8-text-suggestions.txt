@@ -1,0 +1,110 @@
+# Text suggestions for FontLab partners
+
+## What this document is
+
+You know your audience. We make a font editor. Together, we can show the people who follow you why FontLab might be the tool for the work they actually want to do.
+
+These are suggestions, not scripts. Don’t copy our wording. Don’t make it sound like an ad. Speak in the voice your audience already trusts.
+
+Talk about FontLab from whichever angle fits the person you’re talking to. We’ll help: we can send images for different messages and different audiences. Need something we haven’t sent yet? Ask us.
+
+## The FontLab team
+
+Our company is called “Fontlab Ltd.” It’s clunky to say, and a little confusing, because we make FontLab the font editor, but also TransType, Fontographer, TypeTool and Vexy Lines.
+
+So when you need to name the company, say “the FontLab team.” As in, “FontLab and TransType are made by the FontLab team.”
+
+## FontLab, the font editor
+
+If your content is short-lived (like a post, a video, a thread), say “FontLab 8.” If it’s long-lived (like a tutorial page, a course, a book), say “FontLab”, so the piece still reads right after we ship a newer version.
+
+FontLab is a font editor for Mac and Windows. FontLab is a professional font editor. Thousands of type designers have used FontLab apps to make tens of thousands of fonts. Many of the fonts you use daily were built in FontLab: they’re included on your phone, in your office suite, in your favorite design app. 
+
+Some users find FontLab complex. A little overwhelming perhaps at first, steep to start. It isn’t “easy”. It’s powerful. The users who stay describe it as “flexible”, “impressive”, “all-inclusive”, “highly integrated,” “rock-solid,” “best and most comprehensive,” “very well thought-out” and “very addictive.”
+
+— https://help.fontlab.com/fontlab/8/reference/testimonials/
+
+## What FontLab costs
+
+The 10-day completely free trial is the full app, not a feature-locked demo. In those ten days, a user can draw letters, refine shapes, space and kern them, test the result in real text, and export a working font: all in one place. OpenType, variable, web and color fonts: all supported. A first experiment can grow into a real release later. 
+
+The 3-month license for FontLab 8 costs less than a single-user license for three font styles. Three months inside a real font editor for the price of three fonts.
+
+The lifetime license FontLab 8 (one-time purchase, forever to use) costs less than a single-user license for one well-developed font family, or one extensive variable font. The tool that lets you make fonts costs less than one (big) font.
+
+Like many other font editors, FontLab 8 works great on a newest MacBook Pro. But unlike other font editors, FontLab is truly cross-platform: the same FontLab 8 works well an older affordable Windows laptop, or even on Linux with Wine. 
+
+## Start your font with FontLab
+
+If your audience has been thinking about making their first font, invite them to finally try it. The strongest message is simple: 
+
+“You can start today.”
+
+Point newcomers at the official tutorials and help:
+
+- https://fontlab.tv/
+- https://www.youtube.com/@fontlabtv
+- https://help.fontlab.com/fontlab/8/
+- https://help.fontlab.com/fontlab/8/tutorials/calfonts/
+- https://help.fontlab.com/fontlab/8/tutorials/briem/
+
+That makes the first step concrete instead of abstract.
+
+- A. Start with one sketch, one letter, one idea — and turn it into a real font.
+- B. Draw, refine, space, kern, test and export in one app. 
+- C. Learn from official tutorials as you go. 
+- D. Try the full app free for ten days and see whether font-making finally clicks.
+
+## Grow your fonts with FontLab
+
+If your audience has already shipped a font or two, skip the feature list. Talk about workflow.
+
+The message here could be: 
+
+“Do more serious work with less friction.”
+
+FontLab 8 is one environment for drawing, spacing, kerning, testing and export. Instead of stitching tools and plugins together, more of the process stays in one place. Mac and Windows. OpenType, variable, web and color fonts.
+
+- A. More font work, fewer jumps between tools. 
+- B. A clean path from drawing to spacing, kerning, testing and export. 
+- C. One professional workflow on Mac and Windows. 
+- D. Room for straightforward fonts, and for projects that grow teeth.
+
+### Expand your workflow with FontLab
+
+If your audience already uses another font editor, don’t say “switch”. Say: 
+
+“Move forward without starting over.”
+
+FontLab reads and writes the formats that other apps use: Glyphs, RoboFont, FontForge. Existing work comes in and keeps going. Nothing has to be rebuilt from scratch.
+
+- A. Bring existing work further instead of rebuilding it. 
+- B. Keep more of the process in one interface. 
+- C. Use automation, batch export and scripting where they actually save time. 
+- D. Keep your work. Lose the friction.
+
+## What to avoid
+
+- Don’t say “the best font editor.” FontLab is good (and we think it’s great), but other good font editors exist. 
+- Don’t say “a professional solution for all font tasks.” It says nothing. Give specific examples instead.
+- Don’t say “unlock your creativity.” That’s worn out and boring.
+- Don’t say “innovations that set trends.” That’s meaningless.
+
+### Better direction
+
+Instead of “Create stunning fonts with an advanced professional editor”, try: 
+
+- “Draw, space, kern, test and release fonts in one place.”
+- “From first sketch to finished font, in one workflow.” 
+- “Start a font today. Grow it as far as you want.” 
+- “Bring your lettering into a real font workflow.” 
+- “Keep your work. Lose the friction.” 
+- “Full font making platform for the price of a font license.”
+
+### Simple CTA
+
+- Try FontLab 8 free for 10 days.
+- The lifetime license costs less than one well-developed font family. 
+- The 3-month license costs less than three font styles.
+- Use the official tutorials if you’re new.
+- Use my link and discount if you decide to keep going.
