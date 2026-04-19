@@ -1,0 +1,3 @@
+mkdocs>=1.6
+mkdocs-materialx>=10
+pymdown-extensions>=10.7
