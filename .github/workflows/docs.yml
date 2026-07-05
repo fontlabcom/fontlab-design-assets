@@ -31,6 +31,23 @@ jobs:
       - name: Install dependencies
         run: pip install -r src_docs/requirements.txt
 
+      - name: Check asset inventory
+        run: |
+          set -euo pipefail
+          for pack in \
+            fontlab-banners \
+            fontlab-marketingpack-company \
+            fontlab-marketingpack-fontlab-8 \
+            fontlab-marketingpack-transtype-4; do
+            dir="src_docs/assets/$pack"
+            count=$(find "$dir" -type f | wc -l)
+            if [ "$count" -eq 0 ]; then
+              echo "::error::asset pack '$pack' is missing or empty"
+              exit 1
+            fi
+            echo "$pack: $count files"
+          done
+
       - name: Build site
         run: python build.py build
 
