@@ -22,3 +22,10 @@ All notable changes to this repository are recorded here. Versions are git tags
 
 - Published release of the FontLab Ltd. design-asset site (MkDocs MaterialX),
   deployed to GitHub Pages on `vX.Y.Z` tags.
+
+## 2026-10-03: asset catalogue migration
+
+- Move all 169 original files to FontLab Marketing without byte changes.
+- Retain build-generated redirects for Home, Assets and About.
+- Remove the obsolete local-pack workflow check and align the shell build.
+- Verified deployed redirects after successful Pages run 37128448507.
