@@ -29,6 +29,13 @@ def build(strict: bool) -> None:
         cmd.append("--strict")
     run(cmd, SRC)
     (OUT / ".nojekyll").touch()
+    destination = "https://fontlab.dev/Marketing/fl1992mk/brand-assets/"
+    redirect = f'''<!doctype html><html lang="en"><head><meta charset="utf-8">
+<title>FontLab assets have moved</title><link rel="canonical" href="{destination}">
+<meta http-equiv="refresh" content="0;url={destination}"></head>
+<body><p><a href="{destination}">Open the FontLab asset catalogue</a></p></body></html>'''
+    for route in ("index.html", "assets/index.html", "about/index.html"):
+        (OUT / route).write_text(redirect)
     print(f"Built -> {OUT}")
 
 

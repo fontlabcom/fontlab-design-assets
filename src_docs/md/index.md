@@ -1,10 +1,8 @@
-# Fontlab Design Assets
+---
+this_file: src_docs/md/index.md
+---
 
-Design assets by **Fontlab Ltd.**
+# FontLab assets have moved
 
-This site hosts brand and product design assets for use by Fontlab partners, press, and community.
-
-## Sections
-
-- [Assets](assets.md) — downloadable design assets
-- [About](about.md) — usage guidelines and contact
+The 169 original design assets and usage guidelines are now in the
+[FontLab Marketing asset catalogue](https://fontlab.dev/Marketing/fl1992mk/brand-assets/).
